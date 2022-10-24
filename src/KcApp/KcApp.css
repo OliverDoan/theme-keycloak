@@ -1,8 +1,19 @@
-
 .my-color {
-	color: red;
+  color: red;
 }
 
 .my-font {
-	font-family: 'Work Sans';
+  font-family: 'Work Sans';
+}
+
+header,
+#kc-header,
+.alert {
+  display: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
